@@ -45,7 +45,7 @@ This project implements a colorful and engaging version of the classic Flappy Bi
 - Change colors, bird size, or pipe dimensions to create a unique experience.
 
 ## Screenshot
-![screenshot](ss4.png)
+![screenshot](../ss4.png)
 
 ## License
 
